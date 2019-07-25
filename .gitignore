@@ -1,5 +1,5 @@
 .DS_Store
 
 .ipynb
-.ipynb_checkpoints/*
+.ipynb_checkpoints
 
